@@ -1,4 +1,4 @@
-# Injection_Height_Estimation
+# Injection_Height_Estimation_Algorithm
 A injection height estimation algorithm using Doppler Radar data. 
 
 The following repository contains the python scripts for an injection height estimation algorithm using WSR-88D dual polarization data. Also included in the repository are Jupyter Notebooks as references for plotting figures and data analysis. 
