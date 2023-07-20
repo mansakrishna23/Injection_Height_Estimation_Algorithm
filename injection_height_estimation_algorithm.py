@@ -205,7 +205,7 @@ print('saving the results...')
 savedict = {
     'smoke_injection_height' : all_heights,
     'time' : times,
-    'max_injection_height' : injection_heights,
+    'max_injection_heights' : injection_heights,
     'latitudes' : latitudes,
     'longitudes' : longitudes,
 }
