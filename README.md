@@ -7,10 +7,10 @@ The following repository contains the python scripts for an injection height est
 - Level II WSR-88D data from Radar KOTX
   - NOAA National Weather Service (NWS) Radar Operations Center. (1991). NOAA Next Generation Radar (NEXRAD) Level 2 Base Data. [Data set]. https://doi.org/doi:10.7289/V5W9574V
 - Airborne lidar DIAL-HSRL from DC-8 aircraft, during the FIREX-AQ field campaign.
- - NASA/LARC/SD/ASDC. (2020). FIREX-AQ DC-8 In-Situ Aerosol Data [Data set]. NASA Langley Atmospheric Science Data Center DAAC. Retrieved from https://doi.org/10.5067/ASDC/FIREXAQ_Aerosol_AircraftInSitu_DC8_Data_1
- - Hair, J., Hostetler, C., Cook, A., Harper, D., Notari, A., Fenn, M., et al. (2018). New capability for ozone dial profiling measurements in the troposphere and lower stratosphere from aircraft. EPJ Web of Conferences, 176, 01006. https://doi.org/10.1051/epjconf/201817601006
- - Ye, X., Arab, P., Ahmadov, R., James, E., Grell, G. A., Pierce, B., et al. (2021). Evaluation and intercomparison of wildfire smoke forecasts from multiple modeling systems for the 2019 Williams Flats fire. Atmospheric Chemistry and Physics, 21(18), 14427–14469. https://doi.org/10.5194/acp-21-14427-2021
-- Geostationary satellite imagery from the FIREX-AQ data repository: NASA/LARC/SD/ASDC. (2020). FIREX-AQ DC-8 In-Situ Aerosol Data [Data set]. NASA Langley Atmospheric Science Data Center DAAC. Retrieved from https://doi.org/10.5067/ASDC/FIREXAQ_Aerosol_AircraftInSitu_DC8_Data_1
+  - NASA/LARC/SD/ASDC. (2020). FIREX-AQ DC-8 In-Situ Aerosol Data [Data set]. NASA Langley Atmospheric Science Data Center DAAC. Retrieved from https://doi.org/10.5067/ASDC/FIREXAQ_Aerosol_AircraftInSitu_DC8_Data_1
+  - Hair, J., Hostetler, C., Cook, A., Harper, D., Notari, A., Fenn, M., et al. (2018). New capability for ozone dial profiling measurements in the troposphere and lower stratosphere from aircraft. EPJ Web of Conferences, 176, 01006. https://doi.org/10.1051/epjconf/201817601006
+  - Ye, X., Arab, P., Ahmadov, R., James, E., Grell, G. A., Pierce, B., et al. (2021). Evaluation and intercomparison of wildfire smoke forecasts from multiple modeling systems for the 2019 Williams Flats fire. Atmospheric Chemistry and Physics, 21(18), 14427–14469. https://doi.org/10.5194/acp-21-14427-2021
+  - Geostationary satellite imagery from the FIREX-AQ data repository: NASA/LARC/SD/ASDC. (2020). FIREX-AQ DC-8 In-Situ Aerosol Data [Data set]. NASA Langley Atmospheric Science Data Center DAAC. Retrieved from https://doi.org/10.5067/ASDC/FIREXAQ_Aerosol_AircraftInSitu_DC8_Data_1
   
 
 ### Software
