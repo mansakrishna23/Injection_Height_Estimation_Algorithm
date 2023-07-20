@@ -4,6 +4,8 @@ A injection height estimation algorithm using Doppler Radar data.
 The following repository contains the python scripts for an injection height estimation algorithm using WSR-88D dual polarization data. Also included in the repository are Jupyter Notebooks as references for plotting figures and data analysis. 
 
 #### Citation
+[![DOI](https://zenodo.org/badge/668830991.svg)](https://zenodo.org/badge/latestdoi/668830991)
+
 Krishna, M., Saide, P. E., Ye, X., Turney, F., Hair, J. W., Fenn, M., & Shingler, T. Evaluation of Plume Injection Heights Estimated from Operational Weather Radar Observations \[Manuscript in Preparation\]
 
 ### Datasets
