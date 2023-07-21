@@ -3,11 +3,12 @@ A injection height estimation algorithm using Doppler Radar data.
 
 The following repository contains the python scripts for an injection height estimation algorithm using WSR-88D dual polarization data. Also included in the repository are Jupyter Notebooks as references for plotting figures and data analysis. 
 
-### Cite this code:
+### Citation for this code:
 [![DOI](https://zenodo.org/badge/668830991.svg)](https://zenodo.org/badge/latestdoi/668830991)
 
 Krishna, M., Saide, P. E., Ye, X., Turney, F., Hair, J. W., Fenn, M., & Shingler, T. Evaluation of Plume Injection Heights Estimated from Operational Weather Radar Observations \[Manuscript in Preparation\]
 
+## References
 ### Datasets 
 - NOAA Next Generation Radar (NEXRAD) Level II WSR-88D data from Radar KOTX
   - NOAA National Weather Service (NWS) Radar Operations Center (1991): NOAA Next Generation Radar (NEXRAD) Level 2 Base Data. NOAA National Centers for Environmental Information. doi:10.7289/V5W9574V [11/12/2020].
