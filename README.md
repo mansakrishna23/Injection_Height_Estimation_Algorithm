@@ -16,8 +16,7 @@ Krishna, M., Saide, P. E., Ye, X., Turney, F., Hair, J. W., Fenn, M., & Shingler
   - NASA/LARC/SD/ASDC. (2020). FIREX-AQ DC-8 In-Situ Aerosol Data [Data set]. NASA Langley Atmospheric Science Data Center DAAC. Retrieved from https://doi.org/10.5067/ASDC/FIREXAQ_Aerosol_AircraftInSitu_DC8_Data_1
 
 ### Software
-The code and scripts were written primarily in `Python version 3.9.7`, available under the license https://python.org/ and MATLAB (version R2020b), available at https://www.mathworks.com.
-The following Python libraries were used in the injection height estimation algorithm, for creating figures and tables, and for data analysis. 
+The code and scripts in this repository are in written in Python, `Python version 3.9.7`, available under the license https://python.org/. The following Python libraries were used in the injection height estimation algorithm, for creating figures and tables, and for data analysis. 
   - Python specific packages that were imported for the code include `os.py` and `warnings.py`
 - The Python ARM Radar Toolkit `Py-ART version 1.11.6` was used for interpreting the radar data, and creating objects used within the injection height estimation algorithm, https://arm-doe.github.io/pyart/
   - Helmus, J., & Collis, S. (2016). The Python ARM Radar Toolkit (Py-ART), a Library for Working with Weather Radar Data in the Python Programming Language. Journal of Open Research Software, 4(1), e25. https://doi.org/10.5334/jors.119
