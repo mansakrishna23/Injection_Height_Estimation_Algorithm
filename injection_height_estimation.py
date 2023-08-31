@@ -16,6 +16,10 @@ import pandas as pd
 import scipy.io as sio
 import pyart
 
+# suppress warnings
+import warnings
+warnings.filterwarnings("ignore")
+
 # ========================================
 # Change the following before running the script
 # ----------------------------------------
